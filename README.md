@@ -78,7 +78,7 @@ UI는 아래 흐름으로 구성했습니다.
 → 클리어 가능성 판단
 → 추천 난이도 및 추천 사유 확인
 
-[UI](./images/demo.gif)
+[./images/demo.gif]
 
 ## Demo
 
