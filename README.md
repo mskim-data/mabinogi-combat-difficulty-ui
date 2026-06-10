@@ -98,7 +98,7 @@ MabinogiCombatPrototype
  │   └─ dev_log_day1_to_day21.md  
  └─ README.md  
 
-## 7. 핵심 로직
+## 7. 로직
 1) 난이도 데이터 관리
 public class DifficultyData
 {
