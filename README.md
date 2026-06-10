@@ -80,7 +80,7 @@ UI는 아래 흐름으로 구성했습니다.
 
 ## Demo
 
-시연 영상: [영상보기](./docs/demo.mp4)
+시연 영상: [영상보기](./docs/demo.mp4)  
 ![demo](./images/demo.gif)
 
 ## 6. 프로젝트 구조
