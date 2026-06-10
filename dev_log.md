@@ -112,7 +112,7 @@ ex. int.TryParse(inputText, out int userPower)의 의미
 2) Hierarchy 이름 정리
 3) InputField 숫자 입력 설정
 4) 코드 주석 추가
-5) 테스트 케이스 8개 확인 ![alt text](image.png)
+5) 테스트 케이스 8개 확인
 6) Console 에러 없음
 7) Scene 저장 완료
 
