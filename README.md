@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28781374/README.md)
+[README.md](https://github.com/user-attachments/files/28781374/README.md) 다운로드
 # Mabinogi Mobile Combat Difficulty UI
 
 ## 1. 프로젝트 개요
@@ -83,19 +83,19 @@ UI는 아래 흐름으로 구성했습니다.
 시연 영상: [영상보기](./docs/demo.mp4)
 
 ## 6. 프로젝트 구조
-MabinogiCombatPrototype
- ├─ Assets
- │   ├─ Scenes
- │   │   └─ MainScene.unity
- │   ├─ Scripts
- │   │   ├─ DifficultyData.cs
- │   │   └─ DifficultyUIManager.cs
- │   ├─ Fonts
- │   └─ TextMesh Pro
- ├─ docs
- │   ├─ feature_spec.md
- │   └─ dev_log_day1_to_day21.md
- └─ README.md
+MabinogiCombatPrototype  
+ ├─ Assets  
+ │   ├─ Scenes  
+ │   │   └─ MainScene.unity  
+ │   ├─ Scripts  
+ │   │   ├─ DifficultyData.cs  
+ │   │   └─ DifficultyUIManager.cs  
+ │   ├─ Fonts  
+ │   └─ TextMesh Pro  
+ ├─ docs  
+ │   ├─ feature_spec.md  
+ │   └─ dev_log_day1_to_day21.md  
+ └─ README.md  
 
 ## 7. 핵심 로직
 1) 난이도 데이터 관리
